@@ -18,8 +18,7 @@
   },
   "adminBot": ["61566551318414"],
   "GOD": ["61566551318414"],
-  "DEV": [
-    "61566551318414 ],
+  "DEV": ["61566551318414"],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": ["61566551318414"],
@@ -29,7 +28,7 @@
   "authorName": "SABU",
   "authorFB": "https://www.facebook.com/xnilxhowdhury143",
   "authorEmail": "xnilxhowdhury@gmail.com",
-  "prefix": "/",
+  "prefix": "!",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
